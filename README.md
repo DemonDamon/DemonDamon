@@ -1,4 +1,4 @@
-🔭 I’m currently working on Office AI project like ![WPS AI](https://ai.wps.cn/) and ![Windows 365 Copilot](https://adoption.microsoft.com/zh-cn/copilot/)
+🔭 I’m currently working on Office AI project like [WPS AI](https://ai.wps.cn/) and [Windows 365 Copilot](https://adoption.microsoft.com/zh-cn/copilot/)
 
 <!--
 **DemonDamon/DemonDamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
