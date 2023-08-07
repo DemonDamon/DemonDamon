@@ -1,6 +1,7 @@
 🔭 I’m currently working on Office AI project like [WPS AI](https://ai.wps.cn/) and [Windows 365 Copilot](https://adoption.microsoft.com/zh-cn/copilot/)
 
 😄 Besides, I’m catching up latest works on LLMs、MLLMs and PEFTs, if you guys are interesting about that, please take a look at my WeChat Official Account
+
 ![qrcode_for_gh_cd1a2c32b836_258](https://github.com/DemonDamon/DemonDamon/assets/20499644/077f846c-5d03-4bcb-a459-e070d355438d)
 
 <!--
