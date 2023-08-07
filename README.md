@@ -3,8 +3,8 @@
 😄 Besides, I’m catching up latest works on LLMs、MLLMs and PEFTs, if you guys are interesting about that, please take a look at my WeChat Official Account
 
 <p align="center">
-<img width="30%"  src="https://github.com/DemonDamon/DemonDamon/assets/20499644/077f846c-5d03-4bcb-a459-e070d355438d" />
-<img width="40%"  src="https://github-readme-stats.vercel.app/api?username=DemonDamon" />
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=DemonDamon" />
+<img width="20%"  src="https://github.com/DemonDamon/DemonDamon/assets/20499644/077f846c-5d03-4bcb-a459-e070d355438d" />
 </p>
 
 <!--![qrcode_for_gh_cd1a2c32b836_258]()-->
