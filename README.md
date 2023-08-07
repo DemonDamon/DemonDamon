@@ -1,5 +1,8 @@
 🔭 I’m currently working on Office AI project like [WPS AI](https://ai.wps.cn/) and [Windows 365 Copilot](https://adoption.microsoft.com/zh-cn/copilot/)
 
+😄 Besides, I’m catching up latest works on LLMs、MLLMs and PEFTs, if you guys are interesting about that, please take a look at my WeChat Official Account。
+![qr](https://github.com/DemonDamon/DemonDamon/assets/20499644/aafc351c-807c-45b5-9d69-41d6ea8d6e9b)
+
 <!--
 **DemonDamon/DemonDamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
