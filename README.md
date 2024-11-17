@@ -1,4 +1,4 @@
-🔭 I’m currently working on Conversational AI and GenAI. You could scan the QR code below to follow my WeChat Official Account, where I periodically update the latest research and developments on RAG and AI-Agent topics. 😄
+🔭 I’m currently working on **ConversationalAI** and **GenAI**. You could scan the QR code below to follow my WeChat Official Account, where I periodically update the latest research and developments on RAG and AI-Agent topics. 😄
 
 <p align="center">
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=DemonDamon" />
