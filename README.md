@@ -1,6 +1,4 @@
-🔭 I’m currently working on Office AI project like [WPS AI](https://ai.wps.cn/) and [Windows 365 Copilot](https://adoption.microsoft.com/zh-cn/copilot/)
-
-😄 Besides, I’m catching up latest works on LLMs、MLLMs and PEFTs, you can scan the QR code below to follow my Official Account
+🔭 I’m currently working on Conversational AI and GenAI. You could scan the QR code below to follow my WeChat Official Account, where I periodically update the latest research and developments on RAG and AI-Agent topics. 😄
 
 <p align="center">
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=DemonDamon" />
