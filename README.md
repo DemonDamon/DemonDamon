@@ -1,15 +1,16 @@
 # 👋 Hi, I’m Damon Li
 
-🔭 Currently focused on **Conversational AI & GenAI**.  
-📌 Scan the QR below to follow my WeChat Official Account — I share deep dives on **RAG**, **AI Agents**, and LLM trends.
+🔭 I’m currently working on **Conversational AI** and **GenAI**.  
+📌 Follow my WeChat Official Account for deep dives on **RAG**, **AI Agents**, and cutting-edge LLM research — scan the QR below! 😊
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=DemonDamon&show_icons=true&theme=dark&count_private=true&border_color=333333" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DemonDamon&show_icons=true&theme=dark&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DemonDamon&theme=dark&hide_border=false" />
 </p>
 
 <div align="center">
-  <h3>📲 Follow My WeChat</h3>
-  <p>Get AI insights delivered weekly — straight from me to your feed.</p>
+  <h3>📲 Scan to Follow Me</h3>
+  <p>Get weekly AI insights & tutorials — directly from me to your WeChat.</p>
   <img width="200" src="https://github.com/DemonDamon/DemonDamon/assets/20499644/077f846c-5d03-4bcb-a459-e070d355438d" alt="WeChat QR Code" />
 </div>
 
