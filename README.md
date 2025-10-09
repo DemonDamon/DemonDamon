@@ -5,7 +5,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DemonDamon&show_icons=true&theme=dark&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DemonDamon&theme=dark&hide_border=false" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=DemonDamon&theme=dark&hide_border=false" />
 </p>
 
 <div align="center">
