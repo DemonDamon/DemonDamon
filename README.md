@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Damon Li
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="👋 Hi, I'm Damon. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
 
 🔭 I’m currently working on **Conversational AI** and **GenAI**.  
 📌 Follow my WeChat Official Account for deep dives on **RAG**, **AI Agents**, and cutting-edge LLM research — scan the QR below! 😊
