@@ -1,7 +1,7 @@
 🔭 I’m currently working on **ConversationalAI** and **GenAI**. You could scan the QR code below to follow my WeChat Official Account, where I periodically update the latest research and developments on RAG and AI-Agent topics. 😄
 
 <p align="center">
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=DemonDamon&show_icons=true&theme=transparent" />
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=DemonDamon&show_icons=true&theme=dark" />
 <img width="21.5%"  src="https://github.com/DemonDamon/DemonDamon/assets/20499644/077f846c-5d03-4bcb-a459-e070d355438d" />
 </p>
 
