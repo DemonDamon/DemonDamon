@@ -15,7 +15,3 @@
 </div>
 
 <br/>
-
-<p align="center">
-  <sub>Made with 💖 using GitHub Markdown & Dynamic Stats APIs | <a href="https://github.com/anuraghazra/github-readme-stats">GitHub-Readme-Stats</a> ❤️</sub>
-</p>
