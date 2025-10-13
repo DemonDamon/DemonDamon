@@ -7,5 +7,5 @@
 
 #### Core Repositories
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DemonDamon&repo=FinnewsHunter&show_icons=true&theme=dark&count_private=true" /></a> | <a href="https://github.com/anuraghazra/anuraghazra.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DemonDamon&repo=AgenticX&show_icons=true&theme=dark&count_private=true" /></a> |
+| <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/DemonDamon/FinnewsHunter)"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DemonDamon&repo=FinnewsHunter&show_icons=true&theme=dark&count_private=true" /></a> | <a href="https://github.com/DemonDamon/AgenticX"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DemonDamon&repo=AgenticX&show_icons=true&theme=dark&count_private=true" /></a> |
 | ------------- | ------------- |
