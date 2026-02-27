@@ -43,34 +43,21 @@ philosophy: "The next frontier is not only smarter models, but agents that can a
 
 <br clear="both" />
 
-<!-- GitHub Stats -->
-## GitHub Analytics
+## 📊 GitHub Analytics + 📲 WeChat
 
 <div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemonDamon&theme=github_dark" alt="Profile Details" />
+  <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemonDamon&theme=github_dark" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DemonDamon&theme=github_dark" alt="Stats" />
-  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DemonDamon&theme=github_dark" alt="Top Languages" />
+  <img width="37%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DemonDamon&theme=github_dark" alt="Stats" />
+  <img width="37%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DemonDamon&theme=github_dark" alt="Top Languages" />
+  <img height="109" src="https://github.com/DemonDamon/DemonDamon/assets/20499644/077f846c-5d03-4bcb-a459-e070d355438d" alt="WeChat QR Code" />
 </div>
-
-<!-- WeChat Section -->
-## 📲 WeChat Official Account
 
 <div align="center">
-<br/>
-
-<img width="200" src="https://github.com/DemonDamon/DemonDamon/assets/20499644/077f846c-5d03-4bcb-a459-e070d355438d" alt="WeChat QR Code" />
-
-<br/>
-
-*Scan to follow for deep dives on AI*
-
-</td>
-</tr>
-</table>
-
+  <sub><i>Scan to follow for deep dives on AI</i></sub>
 </div>
+
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" />
