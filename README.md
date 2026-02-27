@@ -46,7 +46,6 @@ philosophy: "The next frontier isn't just smarter models — it's AI that acts i
 ## GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DemonDamon&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemonDamon&theme=github_dark" alt="Profile Details" />
 </div>
 
