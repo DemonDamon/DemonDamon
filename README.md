@@ -18,16 +18,17 @@ name: Damon Li
 located_in: Earth → Cloud → GPU Cluster
 role: AI Engineer & Researcher
 mission: "Teach machines to think, act, and explore the world"
+background: "Math ⊃ Physics, CS, Finance"
 interests:
   - Agentic AI & Multi-Agent Systems
   - World Models & Embodied Intelligence
   - RAG & Knowledge-Augmented Reasoning
   - Open-Source AI Assistants (OpenClaw)
 currently:
-  building: Autonomous agent frameworks that reason, plan & use tools
-  exploring: World models that let AI understand physics & causality
-  contributing: OpenClaw — privacy-first, self-hosted AI assistant
-philosophy: "The next frontier isn't just smarter models — it's AI that acts in the real world."
+  building: Agent systems that reason, plan, and use tools reliably
+  exploring: AI agents grounded in world models and embodied intelligence
+  tracking: OpenClaw and similar open-source assistant projects
+philosophy: "The next frontier is not only smarter models, but agents that can act with purpose."
 ```
 
 <img align="right" width="300" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
@@ -35,7 +36,7 @@ philosophy: "The next frontier isn't just smarter models — it's AI that acts i
 - Building **Agentic AI** systems — agents that reason, plan, use tools, and collaborate autonomously
 - Exploring **World Models** — teaching AI to simulate, predict, and understand the physical world
 - Passionate about **Embodied Intelligence** — bridging the gap between language models and real-world action
-- Exploring **[OpenClaw](https://github.com/openclaw/openclaw)** — open-source, privacy-first personal AI assistant running locally
+- Following **[OpenClaw](https://github.com/openclaw/openclaw)** and similar projects — open-source, privacy-first personal AI assistant ecosystems
 - Deep diving into **RAG** & **Multi-Agent** architectures for knowledge-intensive reasoning
 - Writing about **LLM research**, agent design patterns, and the path to AGI
 - ⚡ *"The best AI doesn't just answer questions — it goes out and solves problems."*
