@@ -52,7 +52,7 @@ philosophy: "The next frontier is not only smarter models, but agents that can a
 <div align="center">
   <img width="37%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DemonDamon&theme=github_dark" alt="Stats" />
   <img width="37%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DemonDamon&theme=github_dark" alt="Top Languages" />
-  <img height="210" src="https://github.com/DemonDamon/DemonDamon/assets/20499644/077f846c-5d03-4bcb-a459-e070d355438d" alt="WeChat QR Code" />
+  <img height="219" src="https://github.com/DemonDamon/DemonDamon/assets/20499644/077f846c-5d03-4bcb-a459-e070d355438d" alt="WeChat QR Code" />
 </div>
 
 <div align="center">
